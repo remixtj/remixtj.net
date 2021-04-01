@@ -1,0 +1,27 @@
+lat	lon	title	description
+46.175095	11.550331	20200628_134310.jpg	<a data-lightbox="20200628_134310.jpg" href="photos/20200628_134310.jpg"><img width="200px" src="photos/20200628_134310.jpg" /></a>
+46.166149	11.530806	20200628_112750.jpg	<a data-lightbox="20200628_112750.jpg" href="photos/20200628_112750.jpg"><img width="200px" src="photos/20200628_112750.jpg" /></a>
+46.171339	11.542145	20200628_130324.jpg	<a data-lightbox="20200628_130324.jpg" href="photos/20200628_130324.jpg"><img width="200px" src="photos/20200628_130324.jpg" /></a>
+46.168354	11.558919	20200628_144603.jpg	<a data-lightbox="20200628_144603.jpg" href="photos/20200628_144603.jpg"><img width="200px" src="photos/20200628_144603.jpg" /></a>
+46.169248	11.552224	20200628_145829.jpg	<a data-lightbox="20200628_145829.jpg" href="photos/20200628_145829.jpg"><img width="200px" src="photos/20200628_145829.jpg" /></a>
+46.169248	11.552224	20200628_145826.jpg	<a data-lightbox="20200628_145826.jpg" href="photos/20200628_145826.jpg"><img width="200px" src="photos/20200628_145826.jpg" /></a>
+46.168443	11.560633	20200628_144116.jpg	<a data-lightbox="20200628_144116.jpg" href="photos/20200628_144116.jpg"><img width="200px" src="photos/20200628_144116.jpg" /></a>
+46.174307	11.549148	20200628_133804.jpg	<a data-lightbox="20200628_133804.jpg" href="photos/20200628_133804.jpg"><img width="200px" src="photos/20200628_133804.jpg" /></a>
+46.166169	11.53085	20200628_112800.jpg	<a data-lightbox="20200628_112800.jpg" href="photos/20200628_112800.jpg"><img width="200px" src="photos/20200628_112800.jpg" /></a>
+46.169308	11.552424	20200628_145813.jpg	<a data-lightbox="20200628_145813.jpg" href="photos/20200628_145813.jpg"><img width="200px" src="photos/20200628_145813.jpg" /></a>
+46.174759	11.549642	20200628_134015.jpg	<a data-lightbox="20200628_134015.jpg" href="photos/20200628_134015.jpg"><img width="200px" src="photos/20200628_134015.jpg" /></a>
+46.169248	11.552224	20200628_145833.jpg	<a data-lightbox="20200628_145833.jpg" href="photos/20200628_145833.jpg"><img width="200px" src="photos/20200628_145833.jpg" /></a>
+46.161355	11.5292	20200628_104556.jpg	<a data-lightbox="20200628_104556.jpg" href="photos/20200628_104556.jpg"><img width="200px" src="photos/20200628_104556.jpg" /></a>
+46.174938	11.550019	20200628_134116.jpg	<a data-lightbox="20200628_134116.jpg" href="photos/20200628_134116.jpg"><img width="200px" src="photos/20200628_134116.jpg" /></a>
+46.165263	11.530343	20200628_112218.jpg	<a data-lightbox="20200628_112218.jpg" href="photos/20200628_112218.jpg"><img width="200px" src="photos/20200628_112218.jpg" /></a>
+46.171339	11.542145	20200628_125734.jpg	<a data-lightbox="20200628_125734.jpg" href="photos/20200628_125734.jpg"><img width="200px" src="photos/20200628_125734.jpg" /></a>
+46.166169	11.53085	20200628_112758.jpg	<a data-lightbox="20200628_112758.jpg" href="photos/20200628_112758.jpg"><img width="200px" src="photos/20200628_112758.jpg" /></a>
+46.174392	11.54927	20200628_133828.jpg	<a data-lightbox="20200628_133828.jpg" href="photos/20200628_133828.jpg"><img width="200px" src="photos/20200628_133828.jpg" /></a>
+46.175079	11.550373	20200628_134337.jpg	<a data-lightbox="20200628_134337.jpg" href="photos/20200628_134337.jpg"><img width="200px" src="photos/20200628_134337.jpg" /></a>
+46.165263	11.530343	20200628_112216.jpg	<a data-lightbox="20200628_112216.jpg" href="photos/20200628_112216.jpg"><img width="200px" src="photos/20200628_112216.jpg" /></a>
+46.171339	11.542145	20200628_125837.jpg	<a data-lightbox="20200628_125837.jpg" href="photos/20200628_125837.jpg"><img width="200px" src="photos/20200628_125837.jpg" /></a>
+46.173254	11.547498	20200628_133146.jpg	<a data-lightbox="20200628_133146.jpg" href="photos/20200628_133146.jpg"><img width="200px" src="photos/20200628_133146.jpg" /></a>
+46.175091	11.550314	20200628_134251.jpg	<a data-lightbox="20200628_134251.jpg" href="photos/20200628_134251.jpg"><img width="200px" src="photos/20200628_134251.jpg" /></a>
+46.174416	11.549313	20200628_133854.jpg	<a data-lightbox="20200628_133854.jpg" href="photos/20200628_133854.jpg"><img width="200px" src="photos/20200628_133854.jpg" /></a>
+46.169308	11.552424	20200628_145817.jpg	<a data-lightbox="20200628_145817.jpg" href="photos/20200628_145817.jpg"><img width="200px" src="photos/20200628_145817.jpg" /></a>
+46.169308	11.552424	20200628_145819.jpg	<a data-lightbox="20200628_145819.jpg" href="photos/20200628_145819.jpg"><img width="200px" src="photos/20200628_145819.jpg" /></a>

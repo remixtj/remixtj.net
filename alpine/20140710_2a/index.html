@@ -1,0 +1,137 @@
+<html>
+
+<head>
+    <!-- Source: http://wiki.openstreetmap.org/wiki/Openlayers_Track_example -->
+    <title>Da Rifugio A. Tissi a Rifugio Venezia</title>
+    <link href="pure-min.css" rel="stylesheet" />
+    <link href="my.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="leaflet/leaflet.css" />
+    <script type="text/javascript" src="leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="leaflet/leaflet-omnivore.min.js"></script> 
+    <script src='leaflet/leaflet.markercluster.js'></script>
+    <link href='leaflet/MarkerCluster.css' rel='stylesheet'>
+    <link href='leaflet/MarkerCluster.Default.css' rel='stylesheet'>
+
+    
+    
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
+    <link href="css/lightbox.css" rel="stylesheet" />
+    
+
+    <script type="text/javascript">
+var map;
+var ajaxRequest;
+var plotlist;
+var plotlayers=[];
+
+function initmap() {
+	// set up the map
+	map = new L.Map('map');
+
+	// create the tile layer with correct attribution
+	//var osmUrl='Tiles/{z}/{x}/{y}.png';
+        var osmUrl = 'http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png'
+	var osmAttrib='&copy; OpenCycleMap - Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+	var osm = new L.TileLayer(osmUrl, {minZoom: 12, maxZoom: 16, attribution: osmAttrib});		
+
+	map.addLayer(osm);
+        
+        var points = omnivore.csv('20140710-cr.txt',{latfield: 'lat',lonfield: 'lon',delimiter: '\t'})
+            .on('ready', function(layer) {
+            this.eachLayer(function(marker) {
+                marker.bindPopup('<h3>'+marker.toGeoJSON().properties.title+"</h3>"+marker.toGeoJSON().properties.description);
+            });
+        map.fitBounds(points.getBounds());
+        var markers = L.markerClusterGroup({
+            showCoverageOnHover: false,
+            maxClusterRadius: 50
+        });
+            markers.addLayer(points);
+            map.addLayer(markers);            
+        });
+        
+        var gpxLayer = omnivore.gpx('20140710.gpx').on('ready', function() {
+        map.fitBounds(gpxLayer.getBounds());
+    }).addTo(map)
+}
+    </script> 
+    <style>
+ html, body {
+            height: 100%;
+    }
+
+    #map {
+        height: 100%;
+        background: #000;
+    }
+
+    </style>
+
+
+</head>
+
+<body onload="initmap();">
+    <div id="content">
+        <div class="pure-g-r">
+            <div class="pure-u-1">
+                <div id="heading">
+                    <img src="compass.png" />
+                    <h1>Da Rifugio A. Tissi a Rifugio Venezia</h1> 
+                    <h5>Escursione - 2014-07-10</h5>	
+                </div>
+            </div>
+        </div>
+        <div class="pure-g-r">
+            <div class="pure-u-1-2">
+                <h3>Mappa</h3>
+                <div id="map"></div>
+            </div>
+
+            <div class="pure-u-1-2">
+                <div>
+                    <h3>Profilo altimetrico:</h3>
+                    <img width="100%" src="profilo.png" />
+                    <h3>Informazioni</h3>
+                    <table class="pure-table">
+                        <thead>
+                            <tr>
+                                <th>Distanza</th>
+                                <th>Quota Minima</th>
+                                <th>Quota Massima</th>
+                            </tr>
+                        </thead>
+                        <tr>
+                            <td>20341.98</td>
+                            <td>1695.573</td>
+                            <td>2285.482</td>
+                        </tr>
+                        <thead>
+                            <th>Dislivello (qmax - qmin)</th>
+                            <th>Dislivello Positivo</th>
+                            <th>Dislivello negativo</th>
+                        </thead>
+                        <tr>
+                            <td>589.9</td>
+                            <td>901</td>
+                            <td>1254</td>
+                        </tr>
+
+                        <thead>
+                            <th>Tempo Totale</th>
+                            <th>Tempo effettivo</th>
+                            <th>Tempo sosta</th>
+                        </thead>
+                        <tr>
+                            <td>7:41:38</td>
+                            <td>6:28:13</td>
+                            <td>1:13:25</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

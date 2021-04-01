@@ -1,0 +1,9 @@
+lat	lon	title	description
+46.299501	11.812997	IMG_20180114_123611.jpg	<a data-lightbox="IMG_20180114_123611.jpg" href="photos/IMG_20180114_123611.jpg"><img width="200px" src="photos/IMG_20180114_123611.jpg" /></a>
+46.312608	11.817091	IMG_20180114_131525.jpg	<a data-lightbox="IMG_20180114_131525.jpg" href="photos/IMG_20180114_131525.jpg"><img width="200px" src="photos/IMG_20180114_131525.jpg" /></a>
+46.321789	11.796173	IMG_20180114_143658.jpg	<a data-lightbox="IMG_20180114_143658.jpg" href="photos/IMG_20180114_143658.jpg"><img width="200px" src="photos/IMG_20180114_143658.jpg" /></a>
+46.299498	11.812978	IMG_20180114_123638.jpg	<a data-lightbox="IMG_20180114_123638.jpg" href="photos/IMG_20180114_123638.jpg"><img width="200px" src="photos/IMG_20180114_123638.jpg" /></a>
+46.321789	11.796173	IMG_20180114_143652.jpg	<a data-lightbox="IMG_20180114_143652.jpg" href="photos/IMG_20180114_143652.jpg"><img width="200px" src="photos/IMG_20180114_143652.jpg" /></a>
+46.321343	11.787155	IMG_20180114_144911.jpg	<a data-lightbox="IMG_20180114_144911.jpg" href="photos/IMG_20180114_144911.jpg"><img width="200px" src="photos/IMG_20180114_144911.jpg" /></a>
+46.312608	11.817091	IMG_20180114_131528.jpg	<a data-lightbox="IMG_20180114_131528.jpg" href="photos/IMG_20180114_131528.jpg"><img width="200px" src="photos/IMG_20180114_131528.jpg" /></a>
+46.314749	11.773199	IMG_20180114_153029.jpg	<a data-lightbox="IMG_20180114_153029.jpg" href="photos/IMG_20180114_153029.jpg"><img width="200px" src="photos/IMG_20180114_153029.jpg" /></a>

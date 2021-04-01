@@ -1,0 +1,22 @@
+lat lon title	description
+46.420806	12.104944	p1070526.jpg	 <a data-lightbox="p1070526.jpg" href="photos/p1070526.jpg"><img width="200px" src="photos/p1070526.jpg" /></a>
+46.422137	12.112016	p1070527.jpg	 <a data-lightbox="p1070527.jpg" href="photos/p1070527.jpg"><img width="200px" src="photos/p1070527.jpg" /></a>
+46.422221	12.112126	p1070528.jpg	 <a data-lightbox="p1070528.jpg" href="photos/p1070528.jpg"><img width="200px" src="photos/p1070528.jpg" /></a>
+46.431706	12.124667	p1070529.jpg	 <a data-lightbox="p1070529.jpg" href="photos/p1070529.jpg"><img width="200px" src="photos/p1070529.jpg" /></a>
+46.434672	12.122747	p1070530.jpg	 <a data-lightbox="p1070530.jpg" href="photos/p1070530.jpg"><img width="200px" src="photos/p1070530.jpg" /></a>
+46.435282	12.122761	p1070531.jpg	 <a data-lightbox="p1070531.jpg" href="photos/p1070531.jpg"><img width="200px" src="photos/p1070531.jpg" /></a>
+46.435619	12.122935	p1070532.jpg	 <a data-lightbox="p1070532.jpg" href="photos/p1070532.jpg"><img width="200px" src="photos/p1070532.jpg" /></a>
+46.435619	12.122935	p1070533.jpg	 <a data-lightbox="p1070533.jpg" href="photos/p1070533.jpg"><img width="200px" src="photos/p1070533.jpg" /></a>
+46.435705	12.123044	p1070534.jpg	 <a data-lightbox="p1070534.jpg" href="photos/p1070534.jpg"><img width="200px" src="photos/p1070534.jpg" /></a>
+46.43684	 12.122791	p1070535.jpg	 <a data-lightbox="p1070535.jpg" href="photos/p1070535.jpg"><img width="200px" src="photos/p1070535.jpg" /></a>
+46.436839	12.122789	p1070536.jpg	 <a data-lightbox="p1070536.jpg" href="photos/p1070536.jpg"><img width="200px" src="photos/p1070536.jpg" /></a>
+46.436839	12.122789	p1070537.jpg	 <a data-lightbox="p1070537.jpg" href="photos/p1070537.jpg"><img width="200px" src="photos/p1070537.jpg" /></a>
+46.436839	12.122789	p1070538.jpg	 <a data-lightbox="p1070538.jpg" href="photos/p1070538.jpg"><img width="200px" src="photos/p1070538.jpg" /></a>
+46.434829	12.122912	p1070539.jpg	 <a data-lightbox="p1070539.jpg" href="photos/p1070539.jpg"><img width="200px" src="photos/p1070539.jpg" /></a>
+46.43474	 12.122882	p1070540.jpg	 <a data-lightbox="p1070540.jpg" href="photos/p1070540.jpg"><img width="200px" src="photos/p1070540.jpg" /></a>
+46.42784	 12.122323	p1070541.jpg	 <a data-lightbox="p1070541.jpg" href="photos/p1070541.jpg"><img width="200px" src="photos/p1070541.jpg" /></a>
+46.42784	 12.122323	p1070542.jpg	 <a data-lightbox="p1070542.jpg" href="photos/p1070542.jpg"><img width="200px" src="photos/p1070542.jpg" /></a>
+46.427805	12.122166	p1070543.jpg	 <a data-lightbox="p1070543.jpg" href="photos/p1070543.jpg"><img width="200px" src="photos/p1070543.jpg" /></a>
+46.427644	12.122072	p1070544.jpg	 <a data-lightbox="p1070544.jpg" href="photos/p1070544.jpg"><img width="200px" src="photos/p1070544.jpg" /></a>
+46.427593	12.122105	p1070545.jpg	 <a data-lightbox="p1070545.jpg" href="photos/p1070545.jpg"><img width="200px" src="photos/p1070545.jpg" /></a>
+46.426068	12.119917	p1070546.jpg	 <a data-lightbox="p1070546.jpg" href="photos/p1070546.jpg"><img width="200px" src="photos/p1070546.jpg" /></a>

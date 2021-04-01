@@ -1,0 +1,23 @@
+lat	lon	title	description
+46.546752	12.402534	IMG_20170703_121102.jpg	<a data-lightbox="IMG_20170703_121102.jpg" href="photos/IMG_20170703_121102.jpg"><img width="200px" src="photos/IMG_20170703_121102.jpg" /></a>
+46.51287	12.396285	IMG_20170703_164249.jpg	<a data-lightbox="IMG_20170703_164249.jpg" href="photos/IMG_20170703_164249.jpg"><img width="200px" src="photos/IMG_20170703_164249.jpg" /></a>
+46.560328	12.419587	IMG_20170703_095636.jpg	<a data-lightbox="IMG_20170703_095636.jpg" href="photos/IMG_20170703_095636.jpg"><img width="200px" src="photos/IMG_20170703_095636.jpg" /></a>
+46.512663	12.396439	IMG_20170703_164351.jpg	<a data-lightbox="IMG_20170703_164351.jpg" href="photos/IMG_20170703_164351.jpg"><img width="200px" src="photos/IMG_20170703_164351.jpg" /></a>
+46.546997	12.405435	IMG_20170703_135409.jpg	<a data-lightbox="IMG_20170703_135409.jpg" href="photos/IMG_20170703_135409.jpg"><img width="200px" src="photos/IMG_20170703_135409.jpg" /></a>
+46.546997	12.405435	IMG_20170703_131523.jpg	<a data-lightbox="IMG_20170703_131523.jpg" href="photos/IMG_20170703_131523.jpg"><img width="200px" src="photos/IMG_20170703_131523.jpg" /></a>
+46.546997	12.405435	IMG_20170703_135415.jpg	<a data-lightbox="IMG_20170703_135415.jpg" href="photos/IMG_20170703_135415.jpg"><img width="200px" src="photos/IMG_20170703_135415.jpg" /></a>
+46.560328	12.419587	IMG_20170703_095625.jpg	<a data-lightbox="IMG_20170703_095625.jpg" href="photos/IMG_20170703_095625.jpg"><img width="200px" src="photos/IMG_20170703_095625.jpg" /></a>
+46.55341	12.402133	IMG_20170703_113711.jpg	<a data-lightbox="IMG_20170703_113711.jpg" href="photos/IMG_20170703_113711.jpg"><img width="200px" src="photos/IMG_20170703_113711.jpg" /></a>
+46.546997	12.405435	IMG_20170703_135419.jpg	<a data-lightbox="IMG_20170703_135419.jpg" href="photos/IMG_20170703_135419.jpg"><img width="200px" src="photos/IMG_20170703_135419.jpg" /></a>
+46.536886	12.403931	IMG_20170703_144149.jpg	<a data-lightbox="IMG_20170703_144149.jpg" href="photos/IMG_20170703_144149.jpg"><img width="200px" src="photos/IMG_20170703_144149.jpg" /></a>
+46.546997	12.405435	IMG_20170703_131809.jpg	<a data-lightbox="IMG_20170703_131809.jpg" href="photos/IMG_20170703_131809.jpg"><img width="200px" src="photos/IMG_20170703_131809.jpg" /></a>
+46.560277	12.41961	IMG_20170703_093803.jpg	<a data-lightbox="IMG_20170703_093803.jpg" href="photos/IMG_20170703_093803.jpg"><img width="200px" src="photos/IMG_20170703_093803.jpg" /></a>
+46.546997	12.405435	IMG_20170703_131518.jpg	<a data-lightbox="IMG_20170703_131518.jpg" href="photos/IMG_20170703_131518.jpg"><img width="200px" src="photos/IMG_20170703_131518.jpg" /></a>
+46.554205	12.403912	IMG_20170703_112855.jpg	<a data-lightbox="IMG_20170703_112855.jpg" href="photos/IMG_20170703_112855.jpg"><img width="200px" src="photos/IMG_20170703_112855.jpg" /></a>
+46.560328	12.419587	IMG_20170703_095635.jpg	<a data-lightbox="IMG_20170703_095635.jpg" href="photos/IMG_20170703_095635.jpg"><img width="200px" src="photos/IMG_20170703_095635.jpg" /></a>
+46.552483	12.411515	IMG_20170703_105926.jpg	<a data-lightbox="IMG_20170703_105926.jpg" href="photos/IMG_20170703_105926.jpg"><img width="200px" src="photos/IMG_20170703_105926.jpg" /></a>
+46.554155	12.402872	IMG_20170703_113145.jpg	<a data-lightbox="IMG_20170703_113145.jpg" href="photos/IMG_20170703_113145.jpg"><img width="200px" src="photos/IMG_20170703_113145.jpg" /></a>
+46.546894	12.405234	IMG_20170703_135617.jpg	<a data-lightbox="IMG_20170703_135617.jpg" href="photos/IMG_20170703_135617.jpg"><img width="200px" src="photos/IMG_20170703_135617.jpg" /></a>
+46.50028	12.384193	IMG_20170703_175132.jpg	<a data-lightbox="IMG_20170703_175132.jpg" href="photos/IMG_20170703_175132.jpg"><img width="200px" src="photos/IMG_20170703_175132.jpg" /></a>
+46.498799	12.384882	IMG_20170703_175632.jpg	<a data-lightbox="IMG_20170703_175632.jpg" href="photos/IMG_20170703_175632.jpg"><img width="200px" src="photos/IMG_20170703_175632.jpg" /></a>
+46.560328	12.419587	IMG_20170703_095543.jpg	<a data-lightbox="IMG_20170703_095543.jpg" href="photos/IMG_20170703_095543.jpg"><img width="200px" src="photos/IMG_20170703_095543.jpg" /></a>

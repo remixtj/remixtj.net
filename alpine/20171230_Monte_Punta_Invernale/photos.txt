@@ -1,0 +1,17 @@
+lat	lon	title	description
+46.377838	12.154408	IMG_20171230_153705.jpg	<a data-lightbox="IMG_20171230_153705.jpg" href="photos/IMG_20171230_153705.jpg"><img width="200px" src="photos/IMG_20171230_153705.jpg" /></a>
+46.37292	12.167099	IMG_20171230_135418.jpg	<a data-lightbox="IMG_20171230_135418.jpg" href="photos/IMG_20171230_135418.jpg"><img width="200px" src="photos/IMG_20171230_135418.jpg" /></a>
+46.377856	12.153857	IMG_20171230_154052.jpg	<a data-lightbox="IMG_20171230_154052.jpg" href="photos/IMG_20171230_154052.jpg"><img width="200px" src="photos/IMG_20171230_154052.jpg" /></a>
+46.377865	12.154326	IMG_20171230_153328.jpg	<a data-lightbox="IMG_20171230_153328.jpg" href="photos/IMG_20171230_153328.jpg"><img width="200px" src="photos/IMG_20171230_153328.jpg" /></a>
+46.377856	12.153857	IMG_20171230_154044.jpg	<a data-lightbox="IMG_20171230_154044.jpg" href="photos/IMG_20171230_154044.jpg"><img width="200px" src="photos/IMG_20171230_154044.jpg" /></a>
+46.372757	12.167288	IMG_20171230_135705.jpg	<a data-lightbox="IMG_20171230_135705.jpg" href="photos/IMG_20171230_135705.jpg"><img width="200px" src="photos/IMG_20171230_135705.jpg" /></a>
+46.379967	12.154708	IMG_20171230_124314.jpg	<a data-lightbox="IMG_20171230_124314.jpg" href="photos/IMG_20171230_124314.jpg"><img width="200px" src="photos/IMG_20171230_124314.jpg" /></a>
+46.372524	12.167416	IMG_20171230_142301.jpg	<a data-lightbox="IMG_20171230_142301.jpg" href="photos/IMG_20171230_142301.jpg"><img width="200px" src="photos/IMG_20171230_142301.jpg" /></a>
+46.377865	12.154326	IMG_20171230_153321.jpg	<a data-lightbox="IMG_20171230_153321.jpg" href="photos/IMG_20171230_153321.jpg"><img width="200px" src="photos/IMG_20171230_153321.jpg" /></a>
+46.37251	12.167412	IMG_20171230_142710.jpg	<a data-lightbox="IMG_20171230_142710.jpg" href="photos/IMG_20171230_142710.jpg"><img width="200px" src="photos/IMG_20171230_142710.jpg" /></a>
+46.382281	12.142689	IMG_20171230_110310.jpg	<a data-lightbox="IMG_20171230_110310.jpg" href="photos/IMG_20171230_110310.jpg"><img width="200px" src="photos/IMG_20171230_110310.jpg" /></a>
+46.3725	12.16742	IMG_20171230_142721.jpg	<a data-lightbox="IMG_20171230_142721.jpg" href="photos/IMG_20171230_142721.jpg"><img width="200px" src="photos/IMG_20171230_142721.jpg" /></a>
+46.380971	12.145445	IMG_20171230_160810.jpg	<a data-lightbox="IMG_20171230_160810.jpg" href="photos/IMG_20171230_160810.jpg"><img width="200px" src="photos/IMG_20171230_160810.jpg" /></a>
+46.380971	12.145445	IMG_20171230_160819.jpg	<a data-lightbox="IMG_20171230_160819.jpg" href="photos/IMG_20171230_160819.jpg"><img width="200px" src="photos/IMG_20171230_160819.jpg" /></a>
+46.375455	12.162731	IMG_20171230_145422.jpg	<a data-lightbox="IMG_20171230_145422.jpg" href="photos/IMG_20171230_145422.jpg"><img width="200px" src="photos/IMG_20171230_145422.jpg" /></a>
+46.372525	12.167401	IMG_20171230_142651.jpg	<a data-lightbox="IMG_20171230_142651.jpg" href="photos/IMG_20171230_142651.jpg"><img width="200px" src="photos/IMG_20171230_142651.jpg" /></a>

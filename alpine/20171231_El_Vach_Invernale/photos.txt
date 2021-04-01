@@ -1,0 +1,16 @@
+lat	lon	title	description
+46.331358	12.150061	IMG_20171231_111813.jpg	<a data-lightbox="IMG_20171231_111813.jpg" href="photos/IMG_20171231_111813.jpg"><img width="200px" src="photos/IMG_20171231_111813.jpg" /></a>
+46.324659	12.142131	IMG_20171231_120923.jpg	<a data-lightbox="IMG_20171231_120923.jpg" href="photos/IMG_20171231_120923.jpg"><img width="200px" src="photos/IMG_20171231_120923.jpg" /></a>
+46.326249	12.144984	IMG_20171231_133053.jpg	<a data-lightbox="IMG_20171231_133053.jpg" href="photos/IMG_20171231_133053.jpg"><img width="200px" src="photos/IMG_20171231_133053.jpg" /></a>
+46.323933	12.138595	IMG_20171231_130111.jpg	<a data-lightbox="IMG_20171231_130111.jpg" href="photos/IMG_20171231_130111.jpg"><img width="200px" src="photos/IMG_20171231_130111.jpg" /></a>
+46.323922	12.138594	IMG_20171231_130119.jpg	<a data-lightbox="IMG_20171231_130119.jpg" href="photos/IMG_20171231_130119.jpg"><img width="200px" src="photos/IMG_20171231_130119.jpg" /></a>
+46.324659	12.142131	IMG_20171231_120926.jpg	<a data-lightbox="IMG_20171231_120926.jpg" href="photos/IMG_20171231_120926.jpg"><img width="200px" src="photos/IMG_20171231_120926.jpg" /></a>
+46.324406	12.139079	IMG_20171231_130553_BURST001_COVER.jpg	<a data-lightbox="IMG_20171231_130553_BURST001_COVER.jpg" href="photos/IMG_20171231_130553_BURST001_COVER.jpg"><img width="200px" src="photos/IMG_20171231_130553_BURST001_COVER.jpg" /></a>
+46.331496	12.149875	IMG_20171231_142438.jpg	<a data-lightbox="IMG_20171231_142438.jpg" href="photos/IMG_20171231_142438.jpg"><img width="200px" src="photos/IMG_20171231_142438.jpg" /></a>
+46.324185	12.13921	IMG_20171231_122032.jpg	<a data-lightbox="IMG_20171231_122032.jpg" href="photos/IMG_20171231_122032.jpg"><img width="200px" src="photos/IMG_20171231_122032.jpg" /></a>
+46.324185	12.13921	IMG_20171231_122029.jpg	<a data-lightbox="IMG_20171231_122029.jpg" href="photos/IMG_20171231_122029.jpg"><img width="200px" src="photos/IMG_20171231_122029.jpg" /></a>
+46.323805	12.138499	IMG_20171231_130237.jpg	<a data-lightbox="IMG_20171231_130237.jpg" href="photos/IMG_20171231_130237.jpg"><img width="200px" src="photos/IMG_20171231_130237.jpg" /></a>
+46.324659	12.142131	IMG_20171231_120918.jpg	<a data-lightbox="IMG_20171231_120918.jpg" href="photos/IMG_20171231_120918.jpg"><img width="200px" src="photos/IMG_20171231_120918.jpg" /></a>
+46.324366	12.139231	IMG_20171231_122124.jpg	<a data-lightbox="IMG_20171231_122124.jpg" href="photos/IMG_20171231_122124.jpg"><img width="200px" src="photos/IMG_20171231_122124.jpg" /></a>
+46.331358	12.150061	IMG_20171231_111802.jpg	<a data-lightbox="IMG_20171231_111802.jpg" href="photos/IMG_20171231_111802.jpg"><img width="200px" src="photos/IMG_20171231_111802.jpg" /></a>
+46.324185	12.13921	IMG_20171231_122043.jpg	<a data-lightbox="IMG_20171231_122043.jpg" href="photos/IMG_20171231_122043.jpg"><img width="200px" src="photos/IMG_20171231_122043.jpg" /></a>

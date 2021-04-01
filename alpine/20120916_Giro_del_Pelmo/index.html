@@ -1,0 +1,119 @@
+<html>
+
+<head>
+    <!-- Source: http://wiki.openstreetmap.org/wiki/Openlayers_Track_example -->
+    <title>Giro del Pelmo</title>
+    <link href="pure-min.css" rel="stylesheet" />
+    <link href="my.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="leaflet/leaflet.css" />
+    <script type="text/javascript" src="leaflet/leaflet.js"></script>
+    <script type="text/javascript" src="leaflet/leaflet-omnivore.min.js"></script> 
+    <script src='leaflet/leaflet.markercluster.js'></script>
+    <link href='leaflet/MarkerCluster.css' rel='stylesheet'>
+    <link href='leaflet/MarkerCluster.Default.css' rel='stylesheet'>
+
+    
+    
+
+    <script type="text/javascript">
+var map;
+var ajaxRequest;
+var plotlist;
+var plotlayers=[];
+
+function initmap() {
+	// set up the map
+	map = new L.Map('map');
+
+	// create the tile layer with correct attribution
+	//var osmUrl='Tiles/{z}/{x}/{y}.png';
+        var osmUrl = 'http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png'
+	var osmAttrib='&copy; OpenCycleMap - Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+	var osm = new L.TileLayer(osmUrl, {minZoom: 13, maxZoom: 17, attribution: osmAttrib});		
+
+	map.addLayer(osm);
+        
+        var gpxLayer = omnivore.gpx('20120916.gpx').on('ready', function() {
+        map.fitBounds(gpxLayer.getBounds());
+    }).addTo(map)
+}
+    </script> 
+    <style>
+ html, body {
+            height: 100%;
+    }
+
+    #map {
+        height: 100%;
+        background: #000;
+    }
+
+    </style>
+
+
+</head>
+
+<body onload="initmap();">
+    <div id="content">
+        <div class="pure-g-r">
+            <div class="pure-u-1">
+                <div id="heading">
+                    <img src="compass.png" />
+                    <h1>Giro del Pelmo</h1> 
+                    <h5>Escursione - 2012-09-16</h5>	
+                </div>
+            </div>
+        </div>
+        <div class="pure-g-r">
+            <div class="pure-u-1-2">
+                <h3>Mappa</h3>
+                <div id="map"></div>
+            </div>
+
+            <div class="pure-u-1-2">
+                <div>
+                    <h3>Profilo altimetrico:</h3>
+                    <img width="100%" src="profilo.png" />
+                    <h3>Informazioni</h3>
+                    <table class="pure-table">
+                        <thead>
+                            <tr>
+                                <th>Distanza</th>
+                                <th>Quota Minima</th>
+                                <th>Quota Massima</th>
+                            </tr>
+                        </thead>
+                        <tr>
+                            <td>15654.94</td>
+                            <td>1765.751</td>
+                            <td>2480.229</td>
+                        </tr>
+                        <thead>
+                            <th>Dislivello (qmax - qmin)</th>
+                            <th>Dislivello Positivo</th>
+                            <th>Dislivello negativo</th>
+                        </thead>
+                        <tr>
+                            <td>714.5</td>
+                            <td>1424</td>
+                            <td>1416</td>
+                        </tr>
+
+                        <thead>
+                            <th>Tempo Totale</th>
+                            <th>Tempo effettivo</th>
+                            <th>Tempo sosta</th>
+                        </thead>
+                        <tr>
+                            <td>7:26:21</td>
+                            <td>4:48:49</td>
+                            <td>2:37:32</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
